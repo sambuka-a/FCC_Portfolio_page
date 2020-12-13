@@ -131,10 +131,13 @@
     width: 100%;
 }
 .title {
+    background-image: url("https://coolbackgrounds.io/images/unsplash/samuel-zeller-medium-b832fe04.jpg");
     background-color: grey;
     height: 200px;
     text-align: center;
     padding: 40px;
+    color: rgb(124, 91, 91);
+    font-size: 48px;
 }
 .project-tile,
 .other-title {
